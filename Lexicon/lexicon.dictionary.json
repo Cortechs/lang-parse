@@ -1,0 +1,49 @@
+{
+  "words": [
+    {
+      "name": "a",
+      "sound": "#L{a}",
+      "meaning": [
+        "generic reference"
+      ],
+      "part_of_speech": "det"
+    },
+    {
+      "name": "the",
+      "sound": "[TH]#L{e}",
+      "meaning": [
+        "specific reference"
+      ],
+      "part_of_speech": "det"
+    },
+    {
+      "name": "dog",
+      "sound": "d#A{o}g",
+      "meaning": [
+        "pet",
+        "carnivor",
+        "mammal",
+        "friend"
+      ],
+      "part_of_speech": "noun"
+    },
+    {
+      "name": "be",
+      "sound": "b#L{e}",
+      "meaning": [
+        "exists on, at, as"
+      ],
+      "part_of_speech": "verb"
+    },
+    {
+      "name": "yellow",
+      "sound": "yel#L{o}",
+      "meaning": [
+        "color",
+        "{%#FFFF00%}",
+        "a shade between {%#00FF00%} and {%#FF0000%}"
+      ],
+      "part_of_speech": "noun"
+    }
+  ]
+}
